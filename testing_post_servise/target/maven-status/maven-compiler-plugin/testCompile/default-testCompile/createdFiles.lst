@@ -1,0 +1,6 @@
+com\gmail\bragar\olga\RunnerListener\SeleniumRunListener.class
+com\gmail\bragar\olga\RunnerListener\WriteReport.class
+com\gmail\bragar\olga\tests\PostServiceTest.class
+com\gmail\bragar\olga\pages\LoginPage.class
+com\gmail\bragar\olga\RunnerListener\SeleniumRunner.class
+com\gmail\bragar\olga\pages\MailBoxPage.class
