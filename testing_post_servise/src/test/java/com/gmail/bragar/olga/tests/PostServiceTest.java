@@ -22,7 +22,7 @@ public class PostServiceTest {
 
     @BeforeClass
     public static void setup() {
-        System.setProperty("webdriver.chrome.driver", "/ProgramData/Driver/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:/Users/olgab/Driver/chromedriver.exe");
         driver = new ChromeDriver();
         loginPage = new LoginPage(driver);
         mailBoxPage1 = new MailBoxPage(driver);

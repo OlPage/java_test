@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gmail.bragar.olga.tests.PostServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-02-23T11:49:53" hostname="DESKTOP-MAMK3VA" time="8.677">
+  <properties/>
+  <testcase name="t001Login" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.022"/>
+  <testcase name="t002MailBox" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.988"/>
+  <testcase name="t003SendLetter" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="3.259"/>
+  <testcase name="t004ReturnToLogin" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.076"/>
+  <testcase name="t005MailBox2" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.715"/>
+  <testcase name="t006EqualsReceiveLetter" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.146"/>
+  <testcase name="t007EqualsSubjectAndText" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.434"/>
+  <testcase name="t008ReturnToLogin" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.033"/>
+  <system-out><![CDATA[Test finished: t001Login(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t002MailBox(com.gmail.bragar.olga.tests.PostServiceTest)
+Verification mail box1 page
+Test finished: t002MailBox(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t003SendLetter(com.gmail.bragar.olga.tests.PostServiceTest)
+Sending letter is testing
+Test finished: t003SendLetter(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t004ReturnToLogin(com.gmail.bragar.olga.tests.PostServiceTest)
+Verification login page 
+Test finished: t004ReturnToLogin(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t005MailBox2(com.gmail.bragar.olga.tests.PostServiceTest)
+Verification Mail box2 page
+Test finished: t005MailBox2(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t006EqualsReceiveLetter(com.gmail.bragar.olga.tests.PostServiceTest)
+Receive letter is testing
+Test finished: t006EqualsReceiveLetter(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t007EqualsSubjectAndText(com.gmail.bragar.olga.tests.PostServiceTest)
+Checking subject and text letter
+Test finished: t007EqualsSubjectAndText(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+Test starts: t008ReturnToLogin(com.gmail.bragar.olga.tests.PostServiceTest)
+Verification login page 
+Test finished: t008ReturnToLogin(com.gmail.bragar.olga.tests.PostServiceTest)
+---------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 34459
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

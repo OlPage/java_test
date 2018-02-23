@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/testing_post_servise.iml" filepath="$PROJECT_DIR$/testing_post_servise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing_post_servise_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testing_post_servise_main.iml" group="testing_post_servise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing_post_servise_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testing_post_servise_test.iml" group="testing_post_servise" />
     </modules>
   </component>
 </project>
