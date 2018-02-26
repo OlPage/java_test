@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gmail.bragar.olga.tests.PostServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-02-23T11:49:53" hostname="DESKTOP-MAMK3VA" time="8.677">
+<testsuite name="com.gmail.bragar.olga.tests.PostServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-02-26T10:37:58" hostname="DESKTOP-MAMK3VA" time="9.625">
   <properties/>
-  <testcase name="t001Login" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.022"/>
-  <testcase name="t002MailBox" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.988"/>
-  <testcase name="t003SendLetter" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="3.259"/>
-  <testcase name="t004ReturnToLogin" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.076"/>
-  <testcase name="t005MailBox2" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.715"/>
-  <testcase name="t006EqualsReceiveLetter" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.146"/>
-  <testcase name="t007EqualsSubjectAndText" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.434"/>
-  <testcase name="t008ReturnToLogin" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.033"/>
+  <testcase name="t001Login" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.576"/>
+  <testcase name="t002MailBox" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="2.19"/>
+  <testcase name="t003SendLetter" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="3.408"/>
+  <testcase name="t004ReturnToLogin" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.087"/>
+  <testcase name="t005MailBox2" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.81"/>
+  <testcase name="t006EqualsReceiveLetter" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.175"/>
+  <testcase name="t007EqualsSubjectAndText" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="1.312"/>
+  <testcase name="t008ReturnToLogin" classname="com.gmail.bragar.olga.tests.PostServiceTest" time="0.037"/>
   <system-out><![CDATA[Test finished: t001Login(com.gmail.bragar.olga.tests.PostServiceTest)
 ---------------------------------------------
 Test starts: t002MailBox(com.gmail.bragar.olga.tests.PostServiceTest)
@@ -40,7 +40,10 @@ Verification login page
 Test finished: t008ReturnToLogin(com.gmail.bragar.olga.tests.PostServiceTest)
 ---------------------------------------------
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 34459
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 23584
 Only local connections are allowed.
 ]]></system-err>
 </testsuite>
